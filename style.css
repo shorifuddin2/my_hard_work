@@ -1,0 +1,119 @@
+body{
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header-section{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    height: 1000px;
+    width: auto;
+}
+.biography-section{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    height: 900px;
+    width: 100%;
+}
+.latest-section{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+}
+.footer-section{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    height: 1000px;
+    width: 100%;
+}
+
+.header{
+    width: 40%;
+    float: left; 
+    margin-left: 10%;  
+    margin-top: 20%;
+
+}
+.header-image{
+width: 30%;
+margin-left: 10%;  
+margin-top: 15%;
+float: left;
+}
+h1{
+    font-weight: 300;
+}
+.tex-p{
+color: gray;
+width: 80%;
+text-align: left;
+}
+span{
+    color: orange;
+    font-weight: 700;
+}
+.link-tag{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.image-pat1{
+    background-repeat: no-repeat;
+    width: 25%;
+    height: auto;
+    float: left;
+    margin-left:2%;
+    padding: 3%;
+}
+.image-pat2{
+    background-repeat: no-repeat;
+    width: 25%;
+    height: auto;
+    float: left;
+    margin-left: 2%;
+    padding: 3%;
+}
+.image-pat3{
+    background-repeat: no-repeat;
+    float: left;
+    width: 25%;
+    height: auto;
+    margin-left: 2%;
+    padding: 3%;
+}
+.image-h1{
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+}
+.tex{
+    text-align: center;
+    padding: 10px;
+}
+.tex p{
+text-align: center;
+
+}
+.tex-q{
+    padding-bottom: 40px;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+}
+
+.tex-color{
+    background-image: linear-gradient(90deg, rgb(202, 45, 105),  rgba(202, 8, 115, 0.795));
+    text-align: center;
+    display: inline-block;
+    border-radius: 5px;
+    width: 500px;
+    color: white;
+    font-size: 16px;
+}
+footer{
+    text-align: center;
+    color: gray;
+}
